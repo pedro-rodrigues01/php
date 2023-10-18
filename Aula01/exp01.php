@@ -6,8 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+<h1>teste alteração</h1>
     <?php
  echo"Pedro, teste 1"
+
+
 ?>
 </body>
 </html>
