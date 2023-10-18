@@ -1,0 +1,28 @@
+*{
+margin: 40px;
+
+padding: 40px;
+}
+h1{
+
+    background-color: yellowgreen;
+}
+
+.conteudo{
+
+background-color: yellowgreen;
+
+}
+
+.estilo{
+
+    background-color: yellowgreen;
+}
+.titulo{
+    background-color: brown;
+}
+
+p{
+    background-color: burlywood;
+    color: aliceblue;
+}
