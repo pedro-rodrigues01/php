@@ -1,0 +1,12 @@
+#img{
+      height: 300px;
+      width: 300px;
+      background-image: url(pedro01.jpeg);
+      background-repeat: no-repeat;
+      background-position: top right;
+      border: rgb(11, 242, 23);
+      
+}
+p{
+      background-color: lawngreen;
+}
