@@ -1,0 +1,45 @@
+.box{
+    height: 600px;
+    width: 1200px;
+    display: grid;
+    grid-template-areas: "topo topo topo"
+                        "ce cp cd"
+                        "ro ro ro";
+    grid-template-columns: 150px 1fr 150px;
+    grid-template-rows: 150px 1fr 150px;
+}
+
+.topo{
+    background-color: green;
+    color: white;
+    grid-area: topo;
+    text-align: center;
+}
+
+.cE{
+    background-color: red;
+    color: white;
+    grid-area: ce;
+    text-align: center;
+}
+
+.cP{
+    background-color:cadetblue;
+    color: white;
+    grid-area: cp;
+    text-align: center;
+}
+
+.cD{
+    background-color:darkred;
+    color: white;
+    grid-area: cd;
+    text-align: center;
+}
+
+.rodape{
+    background-color:blueviolet;
+    color: white;
+    grid-area: ro;
+    text-align: center;
+}
